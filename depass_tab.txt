@@ -1,0 +1,13 @@
+DEBUT
+NUM : A ; 
+REAL : B ; 
+NUM : Scores[10];
+
+EXECUTION{
+
+--voila le test d'un depassement d"'une taille de tableau##
+  Scores[11] <- 10;
+
+
+}
+FIN

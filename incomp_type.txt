@@ -1,0 +1,11 @@
+DEBUT
+NUM : A ; 
+REAL : B;
+EXECUTION{
+
+
+--voila le test d'incompatibilité de type ##
+
+A <- B ;
+}
+FIN

@@ -1,0 +1,11 @@
+DEBUT
+NUM : A ; 
+REAL : B;
+REAL : B;
+EXECUTION{
+
+
+--voila le test de double declaration##
+
+}
+FIN

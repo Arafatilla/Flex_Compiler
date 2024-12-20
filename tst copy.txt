@@ -1,0 +1,12 @@
+DEBUT
+NUM : A ; 
+FIXE NUM : test = 0;
+EXECUTION{
+
+
+--voila le test de division par zero##
+  
+
+A <- A / test;
+}
+FIN
